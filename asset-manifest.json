@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-sandbox/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-sandbox/static/js/main.8b8e1421.chunk.js",
-    "main.js.map": "/react-sandbox/static/js/main.8b8e1421.chunk.js.map",
+    "main.js": "/react-sandbox/static/js/main.de7c1cf8.chunk.js",
+    "main.js.map": "/react-sandbox/static/js/main.de7c1cf8.chunk.js.map",
     "runtime-main.js": "/react-sandbox/static/js/runtime-main.ce7eca60.js",
     "runtime-main.js.map": "/react-sandbox/static/js/runtime-main.ce7eca60.js.map",
-    "static/js/2.a2eecbe1.chunk.js": "/react-sandbox/static/js/2.a2eecbe1.chunk.js",
-    "static/js/2.a2eecbe1.chunk.js.map": "/react-sandbox/static/js/2.a2eecbe1.chunk.js.map",
+    "static/js/2.89742fd1.chunk.js": "/react-sandbox/static/js/2.89742fd1.chunk.js",
+    "static/js/2.89742fd1.chunk.js.map": "/react-sandbox/static/js/2.89742fd1.chunk.js.map",
     "static/js/3.e533367a.chunk.js": "/react-sandbox/static/js/3.e533367a.chunk.js",
     "static/js/3.e533367a.chunk.js.map": "/react-sandbox/static/js/3.e533367a.chunk.js.map",
     "index.html": "/react-sandbox/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-sandbox/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a2eecbe1.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.a2eecbe1.chunk.js.LICENSE.txt",
+    "static/js/2.89742fd1.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.89742fd1.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-sandbox/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ce7eca60.js",
-    "static/js/2.a2eecbe1.chunk.js",
+    "static/js/2.89742fd1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8b8e1421.chunk.js"
+    "static/js/main.de7c1cf8.chunk.js"
   ]
 }
